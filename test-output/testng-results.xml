@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Logged in to the browser]]>
+    </line>
+    <line>
+      <![CDATA[Logged in to the appa]]>
+    </line>
+    <line>
+      <![CDATA[Send the succesfully Contact details]]>
+    </line>
+    <line>
+      <![CDATA[logged out from the app]]>
+    </line>
+    <line>
+      <![CDATA[Logged in to the appa]]>
+    </line>
+    <line>
+      <![CDATA[Send the succesfully Contact details]]>
+    </line>
+    <line>
+      <![CDATA[logged out from the app]]>
+    </line>
+    <line>
+      <![CDATA[Closed the browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-18T22:00:31 IST" name="Default suite" finished-at="2023-09-18T22:01:37 IST" duration-ms="66729">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T22:00:31 IST" name="Default test" finished-at="2023-09-18T22:01:37 IST" duration-ms="66729">
+      <class name="com.testscripts.demoblaze.Contact_Page">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:00:31 IST" name="configBS" finished-at="2023-09-18T22:00:44 IST" duration-ms="13004" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:00:46 IST" name="configBM" finished-at="2023-09-18T22:01:06 IST" duration-ms="20399" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the appa]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:06 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-18T22:01:09 IST" duration-ms="3332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Send the succesfully Contact details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactPageTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:09 IST" name="configAM" finished-at="2023-09-18T22:01:10 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out from the app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:10 IST" name="configBM" finished-at="2023-09-18T22:01:32 IST" duration-ms="21419" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the appa]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:32 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-18T22:01:35 IST" duration-ms="3372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Send the succesfully Contact details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactPageTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:35 IST" name="configAM" finished-at="2023-09-18T22:01:36 IST" duration-ms="1061" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out from the app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="confiAS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@d737b89]" started-at="2023-09-18T22:01:36 IST" name="confiAS" finished-at="2023-09-18T22:01:37 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- confiAS -->
+      </class> <!-- com.testscripts.demoblaze.Contact_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
