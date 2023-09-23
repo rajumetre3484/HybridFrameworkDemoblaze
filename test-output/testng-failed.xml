@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testscripts.demoblaze.Contact_Page">
+      <class name="com.testscripts.demoblaze.DeleteProductFromCart">
         <methods>
-          <include name="contactPageTest"/>
+          <include name="DeleteProductFromCartTest"/>
           <include name="configBS"/>
           <include name="configAM"/>
           <include name="configBM"/>
           <include name="confiAS"/>
         </methods>
-      </class> <!-- com.testscripts.demoblaze.Contact_Page -->
+      </class> <!-- com.testscripts.demoblaze.DeleteProductFromCart -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

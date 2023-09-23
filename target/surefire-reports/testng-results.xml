@@ -26,26 +26,26 @@
       <![CDATA[Closed the browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-09-19T12:14:38 IST" name="Suite" finished-at="2023-09-19T12:15:45 IST" duration-ms="67387">
+  <suite started-at="2023-09-24T00:08:42 IST" name="Suite" finished-at="2023-09-24T00:09:41 IST" duration-ms="59091">
     <groups>
     </groups>
-    <test started-at="2023-09-19T12:14:38 IST" name="Test" finished-at="2023-09-19T12:15:45 IST" duration-ms="67387">
+    <test started-at="2023-09-24T00:08:42 IST" name="Test" finished-at="2023-09-24T00:09:41 IST" duration-ms="59091">
       <class name="com.testscripts.demoblaze.Contact_Page">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:14:38 IST" name="configBS" finished-at="2023-09-19T12:14:52 IST" duration-ms="14282" status="PASS">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:08:42 IST" name="configBS" finished-at="2023-09-24T00:08:52 IST" duration-ms="10642" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in to the browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:14:54 IST" name="configBM" finished-at="2023-09-19T12:15:16 IST" duration-ms="21436" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:08:53 IST" name="configBM" finished-at="2023-09-24T00:09:13 IST" duration-ms="19341" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in to the appa]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:16 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-19T12:15:19 IST" duration-ms="3127" status="PASS">
+        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:13 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-24T00:09:15 IST" duration-ms="2761" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,21 +64,21 @@
             </line>
           </reporter-output>
         </test-method> <!-- contactPageTest -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:19 IST" name="configAM" finished-at="2023-09-19T12:15:20 IST" duration-ms="1595" status="PASS">
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:15 IST" name="configAM" finished-at="2023-09-24T00:09:17 IST" duration-ms="1769" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logged out from the app]]>
             </line>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:20 IST" name="configBM" finished-at="2023-09-19T12:15:40 IST" duration-ms="19920" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:17 IST" name="configBM" finished-at="2023-09-24T00:09:37 IST" duration-ms="20181" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in to the appa]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:40 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-19T12:15:43 IST" duration-ms="2986" status="PASS">
+        <test-method signature="contactPageTest(java.lang.String,java.lang.String)[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:37 IST" name="contactPageTest" data-provider="contactTest" finished-at="2023-09-24T00:09:40 IST" duration-ms="2631" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -97,14 +97,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- contactPageTest -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:43 IST" name="configAM" finished-at="2023-09-19T12:15:44 IST" duration-ms="522" status="PASS">
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:40 IST" name="configAM" finished-at="2023-09-24T00:09:40 IST" duration-ms="234" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logged out from the app]]>
             </line>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="confiAS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@14028087]" started-at="2023-09-19T12:15:44 IST" name="confiAS" finished-at="2023-09-19T12:15:45 IST" duration-ms="1407" status="PASS">
+        <test-method is-config="true" signature="confiAS()[pri:0, instance:com.testscripts.demoblaze.Contact_Page@5ab956d7]" started-at="2023-09-24T00:09:40 IST" name="confiAS" finished-at="2023-09-24T00:09:41 IST" duration-ms="739" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closed the browser]]>

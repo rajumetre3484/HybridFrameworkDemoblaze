@@ -1,9 +1,0 @@
-com\genericlib\demoblaze\FileLib.class
-com\objectrepo\demoblaze\Homepage.class
-com\testscripts\demoblaze\Contact_Page.class
-com\genericlib\demoblaze\Base.class
-com\genericlib\demoblaze\EventList.class
-com\testscripts\demoblaze\DeleteProductFromCart.class
-com\objectrepo\demoblaze\ContactPom.class
-com\testscripts\demoblaze\AddToCart.class
-com\genericlib\demoblaze\CommonUtils.class

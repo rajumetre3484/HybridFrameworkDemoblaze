@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.testscripts.demoblaze.Contact_Page">
+        <methods>
+          <include name="contactPageTest"/>
+          <include name="configBS"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="confiAS"/>
+        </methods>
+      </class> <!-- com.testscripts.demoblaze.Contact_Page -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
